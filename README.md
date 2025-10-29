@@ -118,8 +118,6 @@ TaskFlow is a two-part productivity platform that pairs a Laravel 12 REST API wi
 ✅ – requires `Authorization: Bearer <token>` (Sanctum personal access token)
 
 ## Testing & Quality
-- Backend tests: `php artisan test`
-- Frontend linting: `npm run lint` within `taskflow-react`
 - Manual test checklist:
   - Register, login, and logout flows
   - Blog CRUD operations (including image upload and deletion)
