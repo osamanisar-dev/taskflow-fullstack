@@ -84,7 +84,6 @@ TaskFlow is a two-part productivity platform that pairs a Laravel 12 REST API wi
 ### Laravel
 - `php artisan serve` – Serve the API locally.
 - `php artisan migrate:fresh --seed` – Reset the database with seed data.
-- `php artisan test` – Execute the PHPUnit test suite.
 
 ### React SPA (`taskflow-react`)
 - `npm run dev` – Start Vite in development mode with HMR.
